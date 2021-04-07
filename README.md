@@ -1,2 +1,2 @@
 # Matlab_Scripts
-Arlogithms in Matlab 
+Alogithms in Matlab 
